@@ -1,7 +1,7 @@
 # Hi, I'm Mai Hoàng Phúc
 
 ### About Me
-A passionate and dedicated third-year student at **Bách Khoa TPHCM, Khoa Khoa Học Máy Tính**. With a strong foundation in computer science and a keen interest in solving complex problems, the goal is to become a proficient Software Engineer. A continuous learner, always ready to embrace new challenges and technologies in the field of software development.
+A passionate and dedicated third-year student at **University of Technology Ho Chi Minh City, Computer Science Major**. With a strong foundation in computer science and a keen interest in solving complex problems, the goal is to become a proficient Software Engineer. A continuous learner, always ready to embrace new challenges and technologies in the field of software development.
 
 ### Education
 - **University of Technology Ho Chi Minh City**  
